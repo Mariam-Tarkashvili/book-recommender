@@ -1,0 +1,5 @@
+
+GROQ_API_KEY=api_key_is_defined
+PINECONE_API_KEY=pinecone_api_key_is_defined
+PINECONE_INDEX=_pinecone_index_is_defined
+PINECONE_REGION=pinecone_region_is_defined
